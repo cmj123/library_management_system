@@ -1,0 +1,4 @@
+Log - Library Management System
+2019/11/01 - 03 - 025% - IN PROGRESS Creating Main Window Design
+2019/11/01 - 02 - 000% - STARTED Creating Main Window Design
+2019/11/01 - 01 - 000% - STARTED library management system
